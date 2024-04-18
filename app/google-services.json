@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527760041123",
+    "project_id": "sema-f9704",
+    "storage_bucket": "sema-f9704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527760041123:android:91493d337bb4941e428b16",
+        "android_client_info": {
+          "package_name": "com.example.sema"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65gPn_1ukU51a6ahbHG2ZrEgS5lIMdF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

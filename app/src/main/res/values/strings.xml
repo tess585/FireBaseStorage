@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebasestorage</string>
+    <string name="title_activity_insert">insertActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
